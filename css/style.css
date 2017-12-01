@@ -1,0 +1,40 @@
+.upheader {
+  padding-left: 80px;
+  padding-right: 80px;
+  margin-top: 10px;
+}
+
+.logo {
+  width: 200px;
+  height: 24px;
+  margin-bottom: 20px;
+}
+
+.langaccount {
+  display: inline-flex;
+  flex-direction: row;
+  float: right;
+
+}
+
+.upHeadList {
+  display: inline-block;
+  margin-right: 10px;
+margin-top: 5px;
+}
+
+.upHeadList:last-child {
+  margin-right: 0px;
+}
+
+.border {
+  border-bottom: 1px solid grey;
+}
+.greyHeader{
+  color: grey;
+}
+
+.bell{
+  width: 25px;
+  height: 20px;
+}
