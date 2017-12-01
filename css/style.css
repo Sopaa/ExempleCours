@@ -1,3 +1,6 @@
+body{
+  font-family: Arial, sans-serif;
+}
 .upheader {
   padding-left: 80px;
   padding-right: 80px;
@@ -33,8 +36,24 @@ margin-top: 5px;
 .greyHeader{
   color: grey;
 }
+.greyHeader:hover{
+  text-decoration: underline grey;
 
+}
 .bell{
   width: 25px;
   height: 20px;
+}
+
+.accountImg{
+  width: 20px;
+  height: auto;
+}
+
+.upHeadList-link{
+  color: #000000;
+}
+
+.upHeadList-link:hover{
+  text-decoration: underline black;
 }
